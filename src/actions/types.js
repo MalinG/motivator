@@ -1,0 +1,10 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const MINION_UPDATE = 'minion_update';
+export const MINION_CREATE = 'minion_create';
+export const MINIONS_FETCH_SUCCESS = 'minion_fetch_success';
+export const MINION_SAVE_SUCCESS = 'minion_save_success';
+export const MINION_CANCEL = 'minion_save_cancel';
